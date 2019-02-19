@@ -1,1 +1,4 @@
 Ignored/token
+_site
+.sass-cache
+.jekyll-metadata
